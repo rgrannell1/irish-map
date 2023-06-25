@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "canvas": "^2.6.0",
+    "canvas": "^2.11.2",
     "mercator-projection": "0.0.2",
     "shapefile": "^0.6.6",
     "signale": "^1.4.0"
